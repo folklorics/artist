@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 菊池奈美</title>
+    <title>Tags on Kikuchi Nami</title>
     <link>https://folklorics.github.io/artist/tags/</link>
-    <description>Recent content in Tags on 菊池奈美</description>
+    <description>Recent content in Tags on Kikuchi Nami</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://folklorics.github.io/artist/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,20 +16,20 @@
     </item>
     
     <item>
-      <title>anime</title>
-      <link>https://folklorics.github.io/artist/tags/anime/</link>
+      <title>character</title>
+      <link>https://folklorics.github.io/artist/tags/character/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://folklorics.github.io/artist/tags/anime/</guid>
+      <guid>https://folklorics.github.io/artist/tags/character/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>game</title>
-      <link>https://folklorics.github.io/artist/tags/game/</link>
+      <title>wallpaper</title>
+      <link>https://folklorics.github.io/artist/tags/wallpaper/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://folklorics.github.io/artist/tags/game/</guid>
+      <guid>https://folklorics.github.io/artist/tags/wallpaper/</guid>
       <description></description>
     </item>
     
@@ -39,6 +39,24 @@
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://folklorics.github.io/artist/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wuxia</title>
+      <link>https://folklorics.github.io/artist/tags/wuxia/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://folklorics.github.io/artist/tags/wuxia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anime</title>
+      <link>https://folklorics.github.io/artist/tags/anime/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>https://folklorics.github.io/artist/tags/anime/</guid>
       <description></description>
     </item>
     
