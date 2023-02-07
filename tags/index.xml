@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 菊池奈美</title>
-    <link>https://eternity.bora.sh/tags/</link>
+    <link>https://folklorics.github.io/folklorics/tags/</link>
     <description>Recent content in Tags on 菊池奈美</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eternity.bora.sh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://folklorics.github.io/folklorics/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>all</title>
-      <link>https://eternity.bora.sh/tags/all/</link>
+      <link>https://folklorics.github.io/folklorics/tags/all/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eternity.bora.sh/tags/all/</guid>
+      <guid>https://folklorics.github.io/folklorics/tags/all/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anime</title>
-      <link>https://eternity.bora.sh/tags/anime/</link>
+      <link>https://folklorics.github.io/folklorics/tags/anime/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eternity.bora.sh/tags/anime/</guid>
+      <guid>https://folklorics.github.io/folklorics/tags/anime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>game</title>
-      <link>https://eternity.bora.sh/tags/game/</link>
+      <link>https://folklorics.github.io/folklorics/tags/game/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eternity.bora.sh/tags/game/</guid>
+      <guid>https://folklorics.github.io/folklorics/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>https://eternity.bora.sh/tags/work/</link>
+      <link>https://folklorics.github.io/folklorics/tags/work/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eternity.bora.sh/tags/work/</guid>
+      <guid>https://folklorics.github.io/folklorics/tags/work/</guid>
       <description></description>
     </item>
     
